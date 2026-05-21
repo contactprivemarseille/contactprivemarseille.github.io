@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://contactprivemarseille.github.io/sitemap.xml
